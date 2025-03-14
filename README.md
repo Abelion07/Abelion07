@@ -12,7 +12,7 @@
 <tr>
     <td>
         <p align="center">
-            <img src="https://skillicons.dev/icons?i=php,nodejs,python,mysql,cs,ps&perline=3" /><br/>
+            <img src="https://skillicons.dev/icons?i=php,nodejs,python,mysql,cs&perline=3" /><br/>
         </p>
     </td>
     <td><p align="right">What I <b>also</b> know</p></td>
@@ -20,7 +20,7 @@
 <tr>
     <td>
         <p align="center">
-            <img src="https://skillicons.dev/icons?i=swift,figma,vuejs,react&perline=4" />
+            <img src="https://skillicons.dev/icons?i=swift,vuejs,react&perline=4" />
         </p>
     </td>
     <td><p align="right">What I want to <b>learn</b> later</p></td>
