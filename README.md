@@ -1,5 +1,6 @@
 # Hi there 👋
 
+![Abelion07's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abelion07&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 <table>
 <tr>
     <td>
