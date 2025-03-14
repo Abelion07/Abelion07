@@ -12,7 +12,7 @@
 <tr>
     <td>
         <p align="center">
-            <img src="https://skillicons.dev/icons?i=csharp,nodejs,python,mysql&perline=4" /><br/>
+            <img src="https://skillicons.dev/icons?i=php,nodejs,python,mysql&perline=4" /><br/>
         </p>
     </td>
     <td><p align="right">What I <b>also</b> know</p></td>
