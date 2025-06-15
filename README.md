@@ -5,7 +5,7 @@
 <tr>
     <td>
         <p align="center">
-            <img src="https://skillicons.dev/icons?i=html,js,css" /><br/>
+            <img src="https://skillicons.dev/icons?i=html,js,css,mysql,cs&perline=3" /><br/>
         </p>
     </td>
     <td><p align="right">What I know <b>best</b></p></td>
@@ -13,7 +13,7 @@
 <tr>
     <td>
         <p align="center">
-            <img src="https://skillicons.dev/icons?i=php,nodejs,python,mysql,cs&perline=3" /><br/>
+            <img src="https://skillicons.dev/icons?i=php,nodejs,python&perline=3" /><br/>
         </p>
     </td>
     <td><p align="right">What I <b>also</b> know</p></td>
