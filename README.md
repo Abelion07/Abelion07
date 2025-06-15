@@ -21,7 +21,7 @@
 <tr>
     <td>
         <p align="center">
-            <img src="https://skillicons.dev/icons?i=swift,vuejs,react&perline=4" />
+            <img src="https://skillicons.dev/icons?i=react,swift,vuejs&perline=4" />
         </p>
     </td>
     <td><p align="right">What I want to <b>learn</b> later</p></td>
